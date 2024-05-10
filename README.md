@@ -1,6 +1,4 @@
-## Word Etymology Predictors
-
-# 2024-ca4023-goodwis6
+## English Word Etymology Predictors
 
 This repository contains two folders:
 
